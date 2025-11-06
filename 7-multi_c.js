@@ -1,9 +1,9 @@
 const x = process.argv[2];
-if(isNaN(Number(x)) || (Number(x) === undefined)){
+if (isNaN(Number(x)) || (Number(x) === undefined)){
     console.log('Missing number of occurrences')
 }
 else{
-    for(let i = 0; i < x; i++){
+    for (let i = 0; i < x; i++){
         console.log('C is fun');
     }
 }
