@@ -36,14 +36,25 @@ node 0-javascript_is_amazing.js
 📂 Files and Descriptions
 File	Description
 0-javascript_is_amazing.js	Declares a constant myVar with the value "JavaScript is amazing" and prints it.
-1-multi_languages.js	Prints three lines: "C is fun", "Python is cool", and "JavaScript is amazing".
-2-arguments.js	Prints a message based on the number of arguments passed.
+
+1-multi_languages.js	
+Prints three lines: "C is fun", "Python is cool", and "JavaScript is amazing".
+
+2-arguments.js	
+Prints a message based on the number of arguments passed.
+
 3-value_argument.js	Prints the first argument passed to the script, or "No argument" if none.
+
 4-concat.js	Prints two arguments in the format: <arg1> is <arg2>.
+
 5-to_integer.js	Converts the first argument to an integer and prints it, or "Not a number".
+
 6-multi_languages_loop.js	Prints three lines using an array and a loop.
+
 7-multi_c.js	Prints "C is fun" x times, where x is the first argument.
+
 8-square.js	Prints a square made of 'X' characters of a given size.
+
 9-add.js	Defines a function add(a, b) and prints the sum of two integers.
 🧠 Concepts Covered
 
